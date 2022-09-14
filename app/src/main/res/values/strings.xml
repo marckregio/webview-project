@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="web_url">https://perrywilliamfilms.com</string>
+</resources>
